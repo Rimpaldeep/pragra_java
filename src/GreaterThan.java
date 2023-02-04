@@ -12,6 +12,7 @@ public class GreaterThan {
         } else {
             System.out.println("The maximum number is:");
             System.out.println("c = " + c);
+            System.out.println("");
         }
     }
 }
